@@ -1,9 +1,4 @@
 streamlit==1.44.0
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.9.2
-seaborn==0.13.2
 scikit-learn==1.5.2
-pydeck==0.9.1        # Streamlit maps
-openpyxl==3.1.5      #  Excel files
-requests==2.32.3     # if app fetches data from web APIs
+numpy==1.26.4
+
